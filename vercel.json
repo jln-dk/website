@@ -1,0 +1,8 @@
+{
+  "name": "website",
+  "version": 2,
+  "redirects": [
+    { "source": "/blog/", "destination": "https://blog.jln.dk" },
+    { "source": "/how-to-make-woocommerce-work-with-polylang-wordpress/", "destination": "https://blog.jln.dk/how-to-make-woocommerce-work-with-polylang-wordpress/" }
+  ]
+}

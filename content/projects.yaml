@@ -1,0 +1,49 @@
+- name: react-flowchart.js
+  url: https://github.com/jln-dk/react-flowchart.js
+  description: NPM package for drawing complex flowcharts in React.
+  status: live
+  tags:
+    - Typescript
+    - React
+  icon: github
+  image: images/project-flowchart.jpg
+
+- name: Volsted Distillery website
+  url: https://volsteddistillery.com
+  description: Shopify ecommerce website for a Danish gin distillery named Volsted Distillery.
+  status: live
+  tags:
+    - Shopify
+    - Ecommerce
+  icon: website
+  image: images/project-volsteddistillery.jpg
+
+- name: Jessens Mole website
+  url: https://jessensmole.dk
+  description: Website for real estate project Jessens Mole in Svendborg, Denmark.
+  status: live
+  tags:
+    - Responsive website
+    - Wordpress
+  icon: website
+  image: images/project-jessensmole.jpg
+
+- name: Skagen Nordstrand website
+  url: https://skagennordstrand.dk
+  description: Website for real estate project Skagen Nordstrand in Skagen, Denmark.
+  status: live
+  tags:
+    - Responsive website
+    - Wordpress
+  icon: website
+  image: images/project-skagennordstrand.jpg
+
+- name: VR Staging website
+  url: https://vrstaging.dk
+  description: Website for 3D visualisation company VR Staging in Aarhus, Denmark.
+  status: live
+  tags:
+    - Responsive website
+    - Wordpress
+  icon: website
+  image: images/project-vrstaging.jpg

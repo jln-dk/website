@@ -1,0 +1,31 @@
+- profile:
+  initials: JL
+  name: Jesper Lund
+  email: jesper@jln.dk
+  profession: Software Engineer
+  image: images/profile.jpg
+  location: Aarhus, Denmark
+  relocation: true
+  company: JLN Consult
+  for_hire: true
+  focus: Danske Bank
+  focus_url: https://danskebank.dk/
+  about: |
+    I’m a Software Engineer with 9+ years of experience, especially frontend development, and for the past 4 years I have worked intensively with React and React Native in key roles at Danske Bank, Bankdata, Trifork, and Teletronics in Dubai.
+
+    Specialized in frontend development and an expert in building responsive and scalable web & mobile applications, with a proven track record of many successful developments and launches of various solutions.
+
+    Feel free to connect or send me an email.
+  skills:
+    - TypeScript
+    - React.js
+    - GraphQL
+  tools:
+    - VSCode
+    - DevOps
+    - GitHub
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
