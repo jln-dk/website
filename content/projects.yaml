@@ -1,8 +1,31 @@
+- name: Interactive Smart Building Dashboard at Trifork Denmark
+  url: https://trifork.com
+  description: While working at Trifork I developed an interactive "smart building" dashboard showing real-time data from sensors around the office.
+  status: live
+  tags:
+    - IoT
+    - Typescript
+    - React
+  icon: website
+  image: images/project-trifork.jpg
+
+- name: Data Labelling Tool in Machine Learning solution at Grundfos
+  url: https://www.grundfos.com
+  description: As part of Trifork I helped Grundfos build a web-based data labelling tool as part of one of their intelligent machine learning solutions.
+  status: live
+  tags:
+    - Typescript
+    - React
+    - Redux
+  icon: website
+  image: images/project-grundfos.jpg
+
 - name: react-flowchart.js
   url: https://github.com/jln-dk/react-flowchart.js
   description: NPM package for drawing complex flowcharts in React.
   status: live
   tags:
+    - flowchart.js
     - Typescript
     - React
   icon: github
