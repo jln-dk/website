@@ -29,7 +29,7 @@
   image: images/project-jessensmole.jpg
 
 - name: Skagen Nordstrand website
-  url: https://skagennordstrand.dk
+  url: https://skagen-nordstrand.dk
   description: Website for real estate project Skagen Nordstrand in Skagen, Denmark.
   status: live
   tags:
