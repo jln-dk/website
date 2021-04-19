@@ -31,6 +31,16 @@
   icon: github
   image: images/project-flowchart.jpg
 
+- name: Fjordbrynet website
+  url: https://fjordbrynet.dk
+  description: Website for real estate project Fjordbrynet in Kolding, Denmark.
+  status: live
+  tags:
+    - Responsive website
+    - Wordpress
+  icon: website
+  image: images/project-fjordbrynet.jpg
+
 - name: Volsted Distillery website
   url: https://volsteddistillery.com
   description: Shopify ecommerce website for a Danish gin distillery named Volsted Distillery.
