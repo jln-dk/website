@@ -4,8 +4,8 @@
   email: jesper@jln.dk
   profession: Software Engineer
   image: images/profile.jpg
-  location: Aarhus, Denmark
-  relocation: true
+  location: Aalborg, Denmark
+  relocation: false
   company: JLN Consult
   for_hire: true
   focus: Danske Bank
